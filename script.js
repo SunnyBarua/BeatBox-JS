@@ -15,6 +15,7 @@
  * 8, 9: #FFFFFF
  */
 
+
 let beats = {
     "65": {
         beat: new Beat("./assets/Piano Chord 331.mp3"),
